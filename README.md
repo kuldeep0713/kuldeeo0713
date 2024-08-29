@@ -79,5 +79,5 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kuldeep0713&theme=chartreuse_dark&utcOffset=8"/>
     </p>
     <p>Watch the snake eating my GitHub Contribution....</p>
-    <img src="https://github.com/thenameisvir/kuldeep0713/blob/output/github-contribution-grid-snake.svg"/>
+    <img src="https://github.com/kuldeep0713/kuldeep0713/blob/output/github-contribution-grid-snake.svg"/>
 </div>
